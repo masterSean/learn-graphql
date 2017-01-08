@@ -1,0 +1,16 @@
+{
+  "name": "graphql-tuts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_DEBUG=module nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-graphql": "^0.6.1",
+    "graphql": "^0.8.2"
+  }
+}
