@@ -4,7 +4,7 @@
 
 npm install
 npm start
+localhost:5000/graphql
 
 ~~~~~~~~~~~~~~
 
-localhost:5000/graphql
